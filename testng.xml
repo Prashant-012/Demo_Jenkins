@@ -4,6 +4,8 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="testScripts.Test4"/>
+      <class name="testScripts.Test5"/>
+      <class name="testScripts.Test6"/>
       <class name="testScripts.Test1"/>
       <class name="testScripts.Test2"/>
       <class name="testScripts.Test3"/>
